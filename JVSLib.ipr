@@ -279,6 +279,15 @@
       <option name="VERSION" />
     </GetOptions>
   </component>
+  <component name="libraryTable">
+    <library name="JSon">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/lib/json_simple.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
   <component name="masterDetails">
     <states>
       <state key="Copyright.UI">

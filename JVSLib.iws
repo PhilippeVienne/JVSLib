@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b195746-9306-498f-9de2-22cf2d1a32fa" name="Default" comment="" />
+    <list default="true" id="3b195746-9306-498f-9de2-22cf2d1a32fa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JVSLib.ipr" afterPath="$PROJECT_DIR$/JVSLib.ipr" />
+    </list>
     <ignored path="JVSLib.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,10 +69,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Makefile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Makefile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Makefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="45" selection-start="801" selection-end="801" vertical-scroll-proportion="0.43762577">
+            <state line="29" column="13" selection-start="801" selection-end="801" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LICENCE" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LICENCE">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="29" selection-start="92" selection-end="92" vertical-scroll-proportion="0.04527163">
               <folding />
             </state>
           </provider>
@@ -90,9 +101,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/LICENCE" />
       </list>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="1919" />
     <option name="y" value="26" />
@@ -400,7 +413,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Makefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="45" selection-start="801" selection-end="801" vertical-scroll-proportion="0.43762577">
+        <state line="29" column="13" selection-start="801" selection-end="801" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENCE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="29" selection-start="92" selection-end="92" vertical-scroll-proportion="0.04527163">
           <folding />
         </state>
       </provider>

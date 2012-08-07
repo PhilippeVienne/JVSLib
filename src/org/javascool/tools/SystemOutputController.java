@@ -57,8 +57,12 @@ public class SystemOutputController {
         listening = false;
     }
 
-    public String getResult() {
+    public String getAllOut() {
         return result;
+    }
+
+    public void clear(){
+        result="";
     }
 
     private void updateTextPane(final String text) {

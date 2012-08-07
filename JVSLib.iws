@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b195746-9306-498f-9de2-22cf2d1a32fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/javascool/tools/JavaGate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jvslib.jar" afterPath="$PROJECT_DIR$/jvslib.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JVSLib.iws" afterPath="$PROJECT_DIR$/JVSLib.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/javascool/tools/SystemOutputController.java" afterPath="$PROJECT_DIR$/src/org/javascool/tools/SystemOutputController.java" />
     </list>
     <ignored path="JVSLib.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -91,10 +89,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaGate.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="JavaGate.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/javascool/tools/JavaGate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="187" column="13" selection-start="5795" selection-end="5795" vertical-scroll-proportion="0.5171026">
+            <state line="187" column="13" selection-start="5795" selection-end="5795" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#6621#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -107,6 +105,15 @@
                 <element signature="e#3989#4938#0" expanded="true" />
                 <element signature="e#4919#4920#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SystemOutputController.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/javascool/tools/SystemOutputController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="95" selection-start="2359" selection-end="2359" vertical-scroll-proportion="0.86016095">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -128,6 +135,7 @@
         <option value="$PROJECT_DIR$/LICENCE" />
         <option value="$PROJECT_DIR$/src/org/javascool/tools/JSGate.java" />
         <option value="$PROJECT_DIR$/src/org/javascool/tools/JavaGate.java" />
+        <option value="$PROJECT_DIR$/src/org/javascool/tools/SystemOutputController.java" />
       </list>
     </option>
   </component>
@@ -387,7 +395,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="26" width="1922" height="1176" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -493,7 +501,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/javascool/tools/JavaGate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="187" column="13" selection-start="5795" selection-end="5795" vertical-scroll-proportion="0.5171026">
+        <state line="187" column="13" selection-start="5795" selection-end="5795" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#6621#0" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -506,6 +514,13 @@
             <element signature="e#3989#4938#0" expanded="true" />
             <element signature="e#4919#4920#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/javascool/tools/SystemOutputController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="95" selection-start="2359" selection-end="2359" vertical-scroll-proportion="0.86016095">
+          <folding />
         </state>
       </provider>
     </entry>
